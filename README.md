@@ -7,8 +7,8 @@ To run the application on your **Windows machine**, copy the **Release** folder 
 2. Click the **send** icon.
 3. The result is displayed.
 
-**The result generated gives the Rating, Emotion and Score of the text entered by the user.**
-
+The result generated gives the **Rating, Emotion and Score (out of 10)** of the text entered by the user.<br>
+**Examples are given below**
 # Troubleshooting
 
 The application might give an Error message in the form of a snackbar in some cases, the possible error and their solution:
